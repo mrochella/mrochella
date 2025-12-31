@@ -8,10 +8,11 @@ Final-year dual-degree student at Universitas Ciputra Surabaya (Information Syst
 - **iOS Development**: Building native apps with Swift/SwiftUI using MVVM architecture
 - **UI/UX Design**: Creating intuitive user experiences with a focus on research-backed design decisions
 - **Business Intelligence**: Analyzing data with SQL and building data-driven solutions
+- **System Development**: Designing and implementing end-to-end business systems
 
 ### 💼 Featured Projects
 - **Reservee** - Restaurant reservation system with App Clips technology
-- **Sweet-O-Meter** - Children's savings application to teach financial literacy
+- **Sweet-O-Meter** - Sugar health tracker application to monitor daily sugar intake
 - **Luma: The Dolphin** - Unity-based interactive game with water mechanics and hiding systems
 
 ### 🛠️ Tech Stack
