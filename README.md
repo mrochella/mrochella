@@ -7,8 +7,8 @@ Final-year dual-degree student at Universitas Ciputra Surabaya (Information Syst
 ### 🚀 What I Do
 - **iOS Development**: Building native apps with Swift/SwiftUI using MVVM architecture
 - **UI/UX Design**: Creating intuitive user experiences with a focus on research-backed design decisions
-- **Business Intelligence**: Analyzing data with SQL and building data-driven solutions
 - **System Development**: Designing and implementing end-to-end business systems
+- **Business Intelligence**: Analyzing data with SQL and building data-driven solutions
 
 ### 💼 Featured Projects
 - **Reservee** - Restaurant reservation system with App Clips technology
@@ -33,7 +33,6 @@ Final-year dual-degree student at Universitas Ciputra Surabaya (Information Syst
 - LinkedIn: Megan Rochella
 - Email: meganrochella@gmail.com
 
----
 *Currently open to opportunities in iOS Development, System Development, Business Intelligence, and Product Design*
 
 <!--
