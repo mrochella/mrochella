@@ -13,7 +13,7 @@ Final-year dual-degree student at Universitas Ciputra Surabaya (Information Syst
 
 ### 💼 Featured Projects
 - **Reservee**: Restaurant reservation system with App Clips technology
-- **Luma: The Dolphin**: Unity-based interactive game with water mechanics and hiding systems
+- **Luma The Dolphin**: Unity-based interactive game with water mechanics and hiding systems
 
 ### 🛠️ Tech Stack
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
@@ -30,10 +30,10 @@ Final-year dual-degree student at Universitas Ciputra Surabaya (Information Syst
 - 📱 Apple Developer Academy Graduate
 
 ### 📫 Let's Connect
-- LinkedIn: Megan Rochella
+- Linked In: Megan Rochella
 - Email: meganrochella@gmail.com
 
-*Currently open to opportunities in iOS & Game Development, System Development, Business Intelligence, and Product Design*
+*Currently open to opportunities in iOS & Game Development, Product Design, System Development, and Business Intelligence*
 
 <!--
 **mrochella/mrochella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
