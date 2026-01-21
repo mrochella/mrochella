@@ -1,18 +1,18 @@
 ## Hi there, I'm Meg 👋
 
-**iOS Developer | UI/UX Designer | System Development & Business Intelligence Enthusiast**
+**iOS & Game Developer | UI/UX Designer | System Development & Business Intelligence Enthusiast**
 
 Final-year dual-degree student at Universitas Ciputra Surabaya (Information Systems for Business + Management) and recent graduate of Apple Developer Academy Cohort 2025.
 
 ### 🚀 What I Do
 - **iOS Development**: Building native apps with Swift/SwiftUI using MVVM architecture
+- - **iOS Development**: Building games with Unity 2D and 3D
 - **UI/UX Design**: Creating intuitive user experiences with a focus on research-backed design decisions
 - **System Development**: Designing and implementing end-to-end business systems
 - **Business Intelligence**: Analyzing data with SQL and building data-driven solutions
 
 ### 💼 Featured Projects
 - **Reservee** - Restaurant reservation system with App Clips technology
-- **Sweet-O-Meter** - Sugar health tracker application to monitor daily sugar intake
 - **Luma: The Dolphin** - Unity-based interactive game with water mechanics and hiding systems
 
 ### 🛠️ Tech Stack
@@ -27,13 +27,13 @@ Final-year dual-degree student at Universitas Ciputra Surabaya (Information Syst
 ### 🏆 Achievements
 - 🥇 Top 9 out of 743 teams - Bank Indonesia-OJK Hackathon
 - 🏅 Multiple International & National Business Plan Competition Winner
-- 📱 Apple Developer Academy Graduate
+- 📱 Apple Developer Academy 2025 Graduate
 
 ### 📫 Let's Connect
 - LinkedIn: Megan Rochella
 - Email: meganrochella@gmail.com
 
-*Currently open to opportunities in iOS Development, System Development, Business Intelligence, and Product Design*
+*Currently open to opportunities in iOS & Game Development, System Development, Business Intelligence, and Product Design*
 
 <!--
 **mrochella/mrochella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
