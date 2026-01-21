@@ -6,14 +6,14 @@ Final-year dual-degree student at Universitas Ciputra Surabaya (Information Syst
 
 ### 🚀 What I Do
 - **iOS Development**: Building native apps with Swift/SwiftUI using MVVM architecture
-- - **iOS Development**: Building games with Unity 2D and 3D
+- **Game Development**: Building games with Unity 2D and 3D
 - **UI/UX Design**: Creating intuitive user experiences with a focus on research-backed design decisions
 - **System Development**: Designing and implementing end-to-end business systems
 - **Business Intelligence**: Analyzing data with SQL and building data-driven solutions
 
 ### 💼 Featured Projects
-- **Reservee** - Restaurant reservation system with App Clips technology
-- **Luma: The Dolphin** - Unity-based interactive game with water mechanics and hiding systems
+- **Reservee**: Restaurant reservation system with App Clips technology
+- **Luma: The Dolphin**: Unity-based interactive game with water mechanics and hiding systems
 
 ### 🛠️ Tech Stack
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
@@ -27,7 +27,7 @@ Final-year dual-degree student at Universitas Ciputra Surabaya (Information Syst
 ### 🏆 Achievements
 - 🥇 Top 9 out of 743 teams - Bank Indonesia-OJK Hackathon
 - 🏅 Multiple International & National Business Plan Competition Winner
-- 📱 Apple Developer Academy 2025 Graduate
+- 📱 Apple Developer Academy Graduate
 
 ### 📫 Let's Connect
 - LinkedIn: Megan Rochella
